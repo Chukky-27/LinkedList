@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\New folder\Week_1Tsk\bin\Debug\net6.0\Week_1Tsk.exe
+C:\Users\user\Desktop\New folder\Week_1Tsk\bin\Debug\net6.0\Week_1Tsk.deps.json
+C:\Users\user\Desktop\New folder\Week_1Tsk\bin\Debug\net6.0\Week_1Tsk.runtimeconfig.json
+C:\Users\user\Desktop\New folder\Week_1Tsk\bin\Debug\net6.0\Week_1Tsk.dll
+C:\Users\user\Desktop\New folder\Week_1Tsk\bin\Debug\net6.0\Week_1Tsk.pdb
+C:\Users\user\Desktop\New folder\Week_1Tsk\obj\Debug\net6.0\Week_1Tsk.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\Week_1Tsk\obj\Debug\net6.0\Week_1Tsk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\Week_1Tsk\obj\Debug\net6.0\Week_1Tsk.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\Week_1Tsk\obj\Debug\net6.0\Week_1Tsk.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\Week_1Tsk\obj\Debug\net6.0\Week_1Tsk.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\Week_1Tsk\obj\Debug\net6.0\Week_1Tsk.dll
+C:\Users\user\Desktop\New folder\Week_1Tsk\obj\Debug\net6.0\refint\Week_1Tsk.dll
+C:\Users\user\Desktop\New folder\Week_1Tsk\obj\Debug\net6.0\Week_1Tsk.pdb
+C:\Users\user\Desktop\New folder\Week_1Tsk\obj\Debug\net6.0\Week_1Tsk.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder\Week_1Tsk\obj\Debug\net6.0\ref\Week_1Tsk.dll
+C:\Users\user\Desktop\My Task Folder\DecagonTask-Repo\Week_1Tsk\bin\Debug\net6.0\Week_1Tsk.exe
+C:\Users\user\Desktop\My Task Folder\DecagonTask-Repo\Week_1Tsk\bin\Debug\net6.0\Week_1Tsk.deps.json
+C:\Users\user\Desktop\My Task Folder\DecagonTask-Repo\Week_1Tsk\bin\Debug\net6.0\Week_1Tsk.runtimeconfig.json
+C:\Users\user\Desktop\My Task Folder\DecagonTask-Repo\Week_1Tsk\bin\Debug\net6.0\Week_1Tsk.dll
+C:\Users\user\Desktop\My Task Folder\DecagonTask-Repo\Week_1Tsk\bin\Debug\net6.0\Week_1Tsk.pdb
+C:\Users\user\Desktop\My Task Folder\DecagonTask-Repo\Week_1Tsk\obj\Debug\net6.0\Week_1Tsk.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\My Task Folder\DecagonTask-Repo\Week_1Tsk\obj\Debug\net6.0\Week_1Tsk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\My Task Folder\DecagonTask-Repo\Week_1Tsk\obj\Debug\net6.0\Week_1Tsk.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\My Task Folder\DecagonTask-Repo\Week_1Tsk\obj\Debug\net6.0\Week_1Tsk.AssemblyInfo.cs
+C:\Users\user\Desktop\My Task Folder\DecagonTask-Repo\Week_1Tsk\obj\Debug\net6.0\Week_1Tsk.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My Task Folder\DecagonTask-Repo\Week_1Tsk\obj\Debug\net6.0\Week_1Tsk.dll
+C:\Users\user\Desktop\My Task Folder\DecagonTask-Repo\Week_1Tsk\obj\Debug\net6.0\refint\Week_1Tsk.dll
+C:\Users\user\Desktop\My Task Folder\DecagonTask-Repo\Week_1Tsk\obj\Debug\net6.0\Week_1Tsk.pdb
+C:\Users\user\Desktop\My Task Folder\DecagonTask-Repo\Week_1Tsk\obj\Debug\net6.0\Week_1Tsk.genruntimeconfig.cache
+C:\Users\user\Desktop\My Task Folder\DecagonTask-Repo\Week_1Tsk\obj\Debug\net6.0\ref\Week_1Tsk.dll
